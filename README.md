@@ -6,7 +6,6 @@ For more detailed information, please read Wiki page.*
 
 
 ## **Project 1**
------------------------------------------------------------------
 ### Goal
 * Implement a simple user-level command line interpreter using C. (also called shell)
 * Shell can be run in two ways : Interactive mode & Batch mode
@@ -15,7 +14,6 @@ For more detailed information, please read Wiki page.*
 
 
 ## **Project 2 (xv6)**
--------------------------------------------------------------------
 ### Goal
 * Design new scheduler using MLFQ and stride scheduling.
 * Key of this design is to schedule the switching between MLFQ scheduler and stride scheduler efficiently without violating the time limit.
