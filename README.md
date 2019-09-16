@@ -5,7 +5,7 @@
 For more detailed information, please read Wiki page.*
 
 
-## **Project 1**
+## **Project 1 [(Shell)](https://github.com/thjeong917/Operating_systems/tree/master/proj_shell)**
 **Goal**
 * Implement a simple user-level command line interpreter using C. (also called shell)
 * Shell can be run in two ways : Interactive mode & Batch mode
