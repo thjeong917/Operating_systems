@@ -23,7 +23,7 @@ For more detailed information, please read Wiki page.*
 
 
 ## **Project 3 (xv6)**
----------------------------------------------------------------------
+
 ### Goal
 * Design make a light-weight process which is simplified version of pthread, and furthermore, make them to interact properly with the services already provided by the operating system.
 
@@ -32,7 +32,7 @@ For more detailed information, please read Wiki page.*
 
 
 ## **Project 4 (xv6)**
----------------------------------------------------------------------
+
 ### Goal
 * Expand the maximum size a file can have by implementing double indirect block to increase the capacity of the file.
 
